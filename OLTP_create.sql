@@ -1,3 +1,4 @@
+drop database if exists CA2OLTP;
 create database CA2OLTP;
 use CA2OLTP;
 -- change db name accordingly
