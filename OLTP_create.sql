@@ -1,6 +1,6 @@
-drop database if exists CA2OLTP;
-create database CA2OLTP;
-use CA2OLTP;
+drop database if exists CA22B2407;
+create database CA22B2407;
+use CA22B2407;
 -- change db name accordingly
 
 CREATE TABLE MembershipTier (
