@@ -1,0 +1,501 @@
+BookID,Title,Author,Genre,MinTierID
+B00001,Astronomy Explained (8th Edition),Christian Campbell,Science,T0001
+B00002,Scientific Thinking (4th Edition),Ava Poh,Science,T0001
+B00003,Neural Networks Explained (3rd Edition),Jerome Chen,Artificial Intelligence,T0001
+B00004,Medieval Europe (3rd Edition),Chloe Campbell,History,T0002
+B00005,Shadows and Light (6th Edition),Colin Tan,Young Adult,T0001
+B00006,Parallel Computing Foundations (3rd Edition),Xenia Young,Computer Science,T0002
+B00007,Digital Innovation Studies (7th Edition),Lydia Ali,Research Journal,T0001
+B00008,Emerging Technologies Quarterly (1st Edition),Clara Thompson,Research Journal,T0001
+B00009,Introduction to Databases (4th Edition),Emma Deng,Computer Science,T0001
+B00010,AI for Business (2nd Edition),Carter Xie,Artificial Intelligence,T0001
+B00011,International Marketing (6th Edition),Melissa Carter,Business,T0001
+B00012,Advanced Computing Review (6th Edition),Nicholas Wong,Research Journal,T0003
+B00013,The Hidden Truth (4th Edition),Jayden Xu,Fiction,T0001
+B00014,Modern Biology (1st Edition),Isabella Roberts,Science,T0001
+B00015,Crossing Paths (1st Edition),Howard Jones,Young Adult,T0001
+B00016,Journal of Intelligent Systems (7th Edition),James Abdullah,Research Journal,T0001
+B00017,The Lost Puppy (5th Edition),Lisa Williams,Children,T0001
+B00018,Earth and Environment (7th Edition),Harry Ismail,Science,T0001
+B00019,Journal of Artificial Intelligence (8th Edition),Owen Harun,Research Journal,T0001
+B00020,Programming Paradigms (6th Edition),Kristine Guo,Computer Science,T0001
+B00021,Scientific Thinking (6th Edition),Terrence Tan,Science,T0002
+B00022,AI Applications Journal (8th Edition),Joshua Toh,Research Journal,T0001
+B00023,Knowledge Discovery Journal (4th Edition),Rebecca Guo,Research Journal,T0001
+B00024,Advances in Data Science (5th Edition),Florence Wright,Research Journal,T0002
+B00025,Neural Networks Explained (1st Edition),Jerome Williams,Artificial Intelligence,T0001
+B00026,Data Platform Operations (5th Edition),George Pillai,Data Engineering,T0002
+B00027,Practical Linux Administration (5th Edition),Jessica Moore,Computer Science,T0001
+B00028,Shadows and Light (2nd Edition),Jayden Taylor,Young Adult,T0001
+B00029,The Industrial Revolution (7th Edition),Yong Sheng Ali,History,T0002
+B00030,Sam and the Treasure Map (6th Edition),Austin Campbell,Children,T0001
+B00031,The Last Promise (8th Edition),Wendy Sim,Young Adult,T0003
+B00032,Digital Business Transformation (1st Edition),Jia Yi Martinez,Business,T0001
+B00033,The Talking Cat (9th Edition),Gladys Moore,Children,T0001
+B00034,Research Methods in Computing (8th Edition),Esther Williams,Research Journal,T0001
+B00035,AI and Society (10th Edition),Christian Lim,Artificial Intelligence,T0002
+B00036,Advanced Computing Review (3rd Edition),Edward Thompson,Research Journal,T0002
+B00037,Computer Networks Explained (9th Edition),Sebastian Abdullah,Computer Science,T0003
+B00038,AI Project Management (8th Edition),Jun Hao Kapoor,Artificial Intelligence,T0001
+B00039,Consumer Behaviour (1st Edition),Harold Das,Business,T0001
+B00040,The Living World (10th Edition),Candice Carter,Science,T0001
+B00041,Cybersecurity Fundamentals (6th Edition),Christian Green,Computer Science,T0001
+B00042,Managing Change (10th Edition),Sylvia Thomas,Business,T0001
+B00043,Lily's First Journey (1st Edition),Ella Rao,Children,T0001
+B00044,Ancient Wonders (6th Edition),Henry Ong,History,T0001
+B00045,Strategic Decision Making (2nd Edition),Abigail Zainal,Business,T0002
+B00046,Applied Machine Learning Studies (8th Edition),Noah Thomas,Research Journal,T0002
+B00047,A Day at the Zoo (2nd Edition),Phoebe Mehta,Children,T0001
+B00048,History of Innovation (1st Edition),Kai Xin Harris,History,T0001
+B00049,The Winter Guest (9th Edition),Martin Moore,Fiction,T0002
+B00050,Sam and the Treasure Map (10th Edition),Clara Hamid,Children,T0001
+B00051,Generative AI Applications (5th Edition),Julie Sharma,Artificial Intelligence,T0001
+B00052,Strategic Decision Making (10th Edition),Doreen Xie,Business,T0001
+B00053,Chemistry in Action (4th Edition),Patrick Lin,Science,T0001
+B00054,Mastering Apache Spark (3rd Edition),Beatrice Noor,Data Engineering,T0001
+B00055,Enterprise Data Integration (9th Edition),Valerie Razak,Data Engineering,T0001
+B00056,The Sleepy Dinosaur (5th Edition),Louise Scott,Children,T0001
+B00057,Advances in Data Science (1st Edition),Patrick Cai,Research Journal,T0001
+B00058,Knowledge Discovery Journal (3rd Edition),Darren Moore,Research Journal,T0001
+B00059,Cloud Computing Concepts (8th Edition),Harold Zainal,Computer Science,T0001
+B00060,The Sleepy Dinosaur (7th Edition),Theodore Ismail,Children,T0002
+B00061,The Hidden Path (7th Edition),Joanne Chandra,Young Adult,T0001
+B00062,Empires at War (1st Edition),Alex Martin,History,T0001
+B00063,Adventures in Candyland (4th Edition),Hazel Thompson,Children,T0002
+B00064,The Rainbow Forest (5th Edition),Patricia Wu,Children,T0001
+B00065,Information Science Perspectives (2nd Edition),Jasmine Ong,Research Journal,T0003
+B00066,Life Sciences Handbook (5th Edition),Adrian Patel,Science,T0001
+B00067,The Lost Heir (10th Edition),Chris Clark,Fiction,T0001
+B00068,Scientific Thinking (10th Edition),Siti Rao,Science,T0001
+B00069,Oliver and the Moon (9th Edition),Derek Young,Children,T0001
+B00070,Machine Learning in Practice (6th Edition),Sean Carter,Artificial Intelligence,T0001
+B00071,Modern Data Engineering (10th Edition),Kai Xin Ahmad,Data Engineering,T0001
+B00072,Beyond the Horizon (2nd Edition),Esther Kapoor,Young Adult,T0003
+B00073,The Talking Cat (7th Edition),Isaac Iyer,Children,T0002
+B00074,The Little Inventor (6th Edition),Eileen Wright,Children,T0001
+B00075,Global Business Perspectives (6th Edition),Eileen Yeo,Business,T0001
+B00076,Data Mining Research Letters (9th Edition),Aiden Smith,Research Journal,T0003
+B00077,The Tiny Explorer (2nd Edition),Philip Salleh,Children,T0002
+B00078,Journey to Nowhere (2nd Edition),Justin Ng,Fiction,T0001
+B00079,Data Warehouse Design (3rd Edition),Wayne Jamal,Data Engineering,T0001
+B00080,Breaking Boundaries (7th Edition),Phoebe Smith,Young Adult,T0002
+B00081,Streaming Data Systems (9th Edition),Aiden Brown,Data Engineering,T0001
+B00082,Advances in Data Science (2nd Edition),Fiona Morris,Research Journal,T0001
+B00083,Data Platform Operations (2nd Edition),Ann Garcia,Data Engineering,T0001
+B00084,Deep Learning Foundations (8th Edition),Kenneth Salleh,Artificial Intelligence,T0002
+B00085,The Secret Treehouse (5th Edition),Isabel Lim,Children,T0002
+B00086,Introduction to Physics (10th Edition),Joyce Salleh,Science,T0001
+B00087,Emerging Technologies Quarterly (4th Edition),Lauren Evans,Research Journal,T0001
+B00088,Human Resource Management (10th Edition),William Liu,Business,T0001
+B00089,Tommy's Big Adventure (9th Edition),Samantha Brown,Children,T0001
+B00090,Streaming Data Systems (4th Edition),Kian Hassan,Data Engineering,T0001
+B00091,SQL for Data Professionals (2nd Edition),Anna Hashim,Data Engineering,T0001
+B00092,Cybersecurity Fundamentals (10th Edition),Caroline Moore,Computer Science,T0001
+B00093,Space Exploration (7th Edition),Leslie Tan,Science,T0001
+B00094,Breaking Boundaries (5th Edition),Florence Seah,Young Adult,T0001
+B00095,Analytics Engineering Handbook (6th Edition),Caroline Hassan,Data Engineering,T0001
+B00096,Data Mining Research Letters (4th Edition),Alice White,Research Journal,T0001
+B00097,Journal of Machine Learning Research (9th Edition),Benjamin Green,Research Journal,T0001
+B00098,Neural Networks Explained (9th Edition),Aileen Noor,Artificial Intelligence,T0001
+B00099,Earth and Environment (6th Edition),Joy Yang,Science,T0001
+B00100,Earth and Environment (8th Edition),Ava Ismail,Science,T0002
+B00101,Generative AI Applications (10th Edition),Leon Thompson,Artificial Intelligence,T0001
+B00102,Negotiation Skills (3rd Edition),Victoria Rao,Business,T0001
+B00103,Dreams of Freedom (6th Edition),Terence Ong,Young Adult,T0001
+B00104,Innovation Management (8th Edition),Rachel Roberts,Business,T0002
+B00105,Ancient Wonders (5th Edition),Alice Razak,History,T0001
+B00106,Emerging Technologies Quarterly (10th Edition),Ethan Yusof,Research Journal,T0001
+B00107,Revolution and Reform (6th Edition),Emma Hassan,History,T0001
+B00108,A Thousand Miles Away (8th Edition),Leon Huang,Fiction,T0001
+B00109,Oliver and the Moon (3rd Edition),Gabrielle Harun,Children,T0001
+B00110,Big Data Research Review (2nd Edition),Vanessa Davis,Research Journal,T0001
+B00111,Secure Software Development (1st Edition),Trevor Ong,Computer Science,T0001
+B00112,Environmental Studies (1st Edition),Jun Hao Quek,Science,T0001
+B00113,High Performance Computing (10th Edition),Zhi Xin Johnson,Computer Science,T0001
+B00114,The Mystery Balloon (2nd Edition),Richard Kapoor,Children,T0001
+B00115,Human Resource Management (7th Edition),Jonathan King,Business,T0001
+B00116,The Forgotten Diary (5th Edition),Leonard Jackson,Young Adult,T0001
+B00117,The Forgotten House (4th Edition),Jasmine Iyer,Fiction,T0001
+B00118,Information Science Perspectives (7th Edition),Joshua Harun,Research Journal,T0001
+B00119,Marketing Essentials (9th Edition),Beatrice Thompson,Business,T0001
+B00120,Managing Change (9th Edition),Aaron Phillips,Business,T0001
+B00121,The Tiny Explorer (6th Edition),Carl Taylor,Children,T0001
+B00122,High Performance Computing (6th Edition),Wei Jian Wright,Computer Science,T0002
+B00123,Echoes of Tomorrow (7th Edition),Jeffrey Sun,Young Adult,T0001
+B00124,Modern Computer Architecture (10th Edition),Qi Hui Bose,Computer Science,T0002
+B00125,Journal of Machine Learning Research (10th Edition),Gladys Poh,Research Journal,T0001
+B00126,Transformers and Large Models (7th Edition),Gabrielle Chew,Artificial Intelligence,T0001
+B00127,A Day at the Zoo (6th Edition),Angela Wilson,Children,T0001
+B00128,Network Security Essentials (8th Edition),Mason Pillai,Computer Science,T0001
+B00129,Negotiation Skills (6th Edition),Julie Harris,Business,T0003
+B00130,The Hidden Truth (8th Edition),Kyle Neo,Fiction,T0001
+B00131,Intelligent Agents (1st Edition),Gavin Baker,Artificial Intelligence,T0001
+B00132,The Forgotten House (5th Edition),Sean Pillai,Fiction,T0001
+B00133,Analytics and Society (10th Edition),Germaine He,Research Journal,T0001
+B00134,Genetics Fundamentals (8th Edition),Natalie Lim,Science,T0003
+B00135,The Mystery Balloon (4th Edition),Blake Young,Children,T0002
+B00136,Entrepreneurship Fundamentals (1st Edition),Florence Zhao,Business,T0001
+B00137,Voices from the Past (7th Edition),Evelyn Miller,History,T0001
+B00138,The Living World (2nd Edition),Siti He,Science,T0001
+B00139,Modern Biology (5th Edition),Shawn Harun,Science,T0001
+B00140,Principles of Management (5th Edition),Mark Bose,Business,T0001
+B00141,Space Exploration (2nd Edition),Doreen Sun,Science,T0001
+B00142,The Secret Society (7th Edition),Zhi Xin Ali,Young Adult,T0001
+B00143,Adventures in Candyland (8th Edition),Wei Jie Campbell,Children,T0003
+B00144,Research Methods in Computing (4th Edition),Chloe Bose,Research Journal,T0001
+B00145,Operations Management (4th Edition),Annie Toh,Business,T0001
+B00146,The Sleepy Dinosaur (3rd Edition),Teresa Kumar,Children,T0001
+B00147,City of Dreams (8th Edition),Patrick Zhao,Fiction,T0001
+B00148,City of Dreams (4th Edition),Felicia Ang,Fiction,T0001
+B00149,Advanced Computing Review (10th Edition),Aiden Garcia,Research Journal,T0001
+B00150,The Great Dynasties (10th Edition),Chloe Rahman,History,T0002
+B00151,Beyond the Storm (8th Edition),Max Garcia,Fiction,T0001
+B00152,Modern Data Architectures (3rd Edition),Christian Osman,Data Engineering,T0001
+B00153,Innovation Management (3rd Edition),Renee Poh,Business,T0001
+B00154,Principles of Management (4th Edition),Jean Razak,Business,T0001
+B00155,AI for Business (9th Edition),Alice Zhao,Artificial Intelligence,T0002
+B00156,The Roman Legacy (8th Edition),Lucia Lin,History,T0001
+B00157,Sam and the Treasure Map (5th Edition),Phoebe Zhang,Children,T0001
+B00158,The Industrial Revolution (5th Edition),Terrence Jamal,History,T0001
+B00159,Natural Language Processing (8th Edition),Alan Wu,Artificial Intelligence,T0001
+B00160,Information Science Perspectives (9th Edition),Chloe Young,Research Journal,T0002
+B00161,Computer Networks Explained (7th Edition),Glen Moore,Computer Science,T0002
+B00162,The Art of Programming (8th Edition),Elena Ma,Computer Science,T0001
+B00163,Climate Science Today (6th Edition),Andy Bose,Science,T0003
+B00164,City of Dreams (10th Edition),Jun Jie Jones,Fiction,T0003
+B00165,Emerging Technologies Quarterly (6th Edition),Charmaine Hassan,Research Journal,T0002
+B00166,Managing Change (5th Edition),Sarah Smith,Business,T0001
+B00167,The Lost Heir (7th Edition),Hui Ting Das,Fiction,T0001
+B00168,Research Methods in Computing (6th Edition),Christina Jones,Research Journal,T0001
+B00169,Data Structures in Practice (8th Edition),Gabrielle Martin,Computer Science,T0001
+B00170,The Roman Legacy (1st Edition),Jared White,History,T0001
+B00171,Operating Systems Principles (4th Edition),Leonard Reddy,Computer Science,T0001
+B00172,Data Mining Research Letters (1st Edition),Asher Martinez,Research Journal,T0002
+B00173,Dreams of Freedom (10th Edition),Keith Yeo,Young Adult,T0001
+B00174,The Hidden Truth (5th Edition),Nora Smith,Fiction,T0001
+B00175,Principles of Chemistry (6th Edition),Crystal Campbell,Science,T0001
+B00176,Voices from the Past (9th Edition),Olivia Seah,History,T0001
+B00177,The Magic Backpack (8th Edition),Zhi Xin Verma,Children,T0001
+B00178,The Golden Feather (8th Edition),Pei Ling Huang,Children,T0001
+B00179,Operations Management (3rd Edition),Candice Lim,Business,T0001
+B00180,The Final Challenge (5th Edition),Stephanie Salleh,Young Adult,T0002
+B00181,The Winter Guest (5th Edition),Alan Martinez,Fiction,T0003
+B00182,Building Data Pipelines (9th Edition),Isabel Liu,Data Engineering,T0001
+B00183,Genetics Fundamentals (7th Edition),Jasmine Yang,Science,T0001
+B00184,Responsible AI (5th Edition),Anna Jones,Artificial Intelligence,T0001
+B00185,Summer of Secrets (3rd Edition),Jeremy Guo,Young Adult,T0001
+B00186,Managing Change (8th Edition),Nicholas Singh,Business,T0001
+B00187,Data Engineering Transactions (2nd Edition),Ann Cai,Research Journal,T0001
+B00188,Machine Learning in Practice (3rd Edition),Alvin Rahman,Artificial Intelligence,T0001
+B00189,Machine Learning Engineering (6th Edition),Sarah Taylor,Artificial Intelligence,T0002
+B00190,Mastering Apache Spark (1st Edition),Amanda Clark,Data Engineering,T0002
+B00191,Climate Science Today (7th Edition),Alex Poh,Science,T0001
+B00192,Tommy's Big Adventure (4th Edition),Rose Harris,Children,T0001
+B00193,Scientific Thinking (7th Edition),Charlotte Cook,Science,T0003
+B00194,The Sleepy Dinosaur (9th Edition),Jacob Sun,Children,T0001
+B00195,Data Warehouse Design (4th Edition),Ian Zhao,Data Engineering,T0001
+B00196,Scalable Data Platforms (10th Edition),Jackson Reddy,Data Engineering,T0001
+B00197,Modern Analytics Quarterly (6th Edition),Gary Zhou,Research Journal,T0001
+B00198,Emerging Technologies Quarterly (3rd Edition),Mei Xuan King,Research Journal,T0001
+B00199,Startup Success Stories (6th Edition),Natalie White,Business,T0001
+B00200,Tommy's Big Adventure (8th Edition),Natalie Jamal,Children,T0001
+B00201,The Golden Feather (6th Edition),Sophia Fang,Children,T0001
+B00202,Genetics Fundamentals (2nd Edition),Kai Xin Ang,Science,T0002
+B00203,The Secret Society (1st Edition),Carmen Menon,Young Adult,T0001
+B00204,Fading Memories (10th Edition),Thomas Singh,Fiction,T0001
+B00205,Sam and the Treasure Map (4th Edition),Jia Yi Wilson,Children,T0001
+B00206,Astronomy Explained (9th Edition),Derek Ong,Science,T0001
+B00207,Applied Machine Learning Studies (2nd Edition),Vivian Liu,Research Journal,T0002
+B00208,Scientific Thinking (9th Edition),Yong Sheng Sun,Science,T0002
+B00209,Algorithms Unlocked (4th Edition),Yvonne Morris,Computer Science,T0001
+B00210,Advances in Data Science (6th Edition),Xin Yi Martin,Research Journal,T0002
+B00211,Neural Networks Explained (10th Edition),Amanda Osman,Artificial Intelligence,T0001
+B00212,Applied Machine Learning Studies (9th Edition),Gilbert Neo,Research Journal,T0001
+B00213,Environmental Studies (4th Edition),Hui Min Smith,Science,T0001
+B00214,Astronomy Explained (10th Edition),Fiona Davis,Science,T0001
+B00215,The Sleepy Dinosaur (6th Edition),Irene Bose,Children,T0002
+B00216,Responsible AI (4th Edition),Zhi Xin Noor,Artificial Intelligence,T0001
+B00217,The Secret Society (8th Edition),Julie Tan,Young Adult,T0002
+B00218,Ancient Wonders (3rd Edition),Camila Tan,History,T0001
+B00219,Algorithms Unlocked (5th Edition),Wei Ling Ismail,Computer Science,T0002
+B00220,Whispers in the Dark (8th Edition),Felicia Ang,Fiction,T0001
+B00221,Practical Deep Learning (2nd Edition),Hui Ting Das,Artificial Intelligence,T0001
+B00222,Cybersecurity Fundamentals (8th Edition),Marcus Hassan,Computer Science,T0001
+B00223,The Friendly Dragon (10th Edition),Brianna Goh,Children,T0001
+B00224,Modern Biology (7th Edition),Lillian Cook,Science,T0001
+B00225,A New Beginning (1st Edition),Jenna Teo,Fiction,T0001
+B00226,Information Science Perspectives (4th Edition),Justin Teo,Research Journal,T0001
+B00227,The Modern World (10th Edition),Belinda Toh,History,T0003
+B00228,Mastering Apache Spark (6th Edition),Felix Ahmad,Data Engineering,T0001
+B00229,Computational Intelligence Review (7th Edition),Ava Verma,Research Journal,T0001
+B00230,Advanced Computing Review (7th Edition),Hui Ting Chen,Research Journal,T0001
+B00231,Kings and Kingdoms (2nd Edition),Amanda Clark,History,T0001
+B00232,The Friendly Dragon (7th Edition),Louise Nair,Children,T0001
+B00233,Building Data Pipelines (5th Edition),Leslie Gupta,Data Engineering,T0001
+B00234,History of Southeast Asia (8th Edition),Carl Morris,History,T0001
+B00235,Operating Systems Principles (2nd Edition),Christian Zhou,Computer Science,T0001
+B00236,The Crimson Night (1st Edition),Emily Moore,Fiction,T0002
+B00237,Real-Time Analytics (4th Edition),Nadia Xu,Data Engineering,T0001
+B00238,Earth and Environment (1st Edition),Isabella Razak,Science,T0001
+B00239,Principles of Chemistry (5th Edition),Patrick King,Science,T0001
+B00240,Algorithms Unlocked (2nd Edition),Joanne Williams,Computer Science,T0001
+B00241,Echoes of the Past (1st Edition),Audrey Mitchell,Fiction,T0001
+B00242,Modern AI Techniques (2nd Edition),Chloe Hassan,Artificial Intelligence,T0003
+B00243,Environmental Studies (8th Edition),Yu Ting Morris,Science,T0001
+B00244,International Journal of AI Systems (6th Edition),Xenia Reddy,Research Journal,T0002
+B00245,Emerging Technologies Quarterly (5th Edition),Terrence Hamid,Research Journal,T0001
+B00246,Analytics and Society (1st Edition),Wei Ting Fang,Research Journal,T0001
+B00247,Mastering Apache Spark (2nd Edition),Jenna Yusof,Data Engineering,T0001
+B00248,Energy and Matter (7th Edition),Timothy Latif,Science,T0001
+B00249,The Age of Exploration (8th Edition),Pei Yi Loh,History,T0002
+B00250,Applied Machine Learning Studies (3rd Edition),Cecilia Moore,Research Journal,T0001
+B00251,Earth and Environment (10th Edition),Kenneth Kumar,Science,T0001
+B00252,Genetics Fundamentals (6th Edition),Jordan White,Science,T0001
+B00253,Big Data Infrastructure (5th Edition),Nora Martin,Data Engineering,T0003
+B00254,Beyond the Storm (3rd Edition),Nicholas Chew,Fiction,T0003
+B00255,Future Computing Research (5th Edition),Ain Zainal,Research Journal,T0003
+B00256,Cloud Computing Concepts (2nd Edition),Tracy Seah,Computer Science,T0001
+B00257,Modern Biology (3rd Edition),Joanne Hassan,Science,T0001
+B00258,Digital Innovation Studies (1st Edition),Amelia Bose,Research Journal,T0001
+B00259,The Rainbow Forest (2nd Edition),Martin Morris,Children,T0001
+B00260,Transformers and Large Models (8th Edition),Vincent Malhotra,Artificial Intelligence,T0001
+B00261,Analytics and Society (6th Edition),Joyce Zainal,Research Journal,T0001
+B00262,Principles of Chemistry (9th Edition),Howard Kapoor,Science,T0001
+B00263,The Hidden Truth (9th Edition),Nadia Reddy,Fiction,T0002
+B00264,Advances in Data Science (4th Edition),Audrey Joshi,Research Journal,T0001
+B00265,Analytics Engineering Handbook (3rd Edition),Louise Guo,Data Engineering,T0002
+B00266,Modern Analytics Quarterly (8th Edition),Priscilla Toh,Research Journal,T0001
+B00267,Data Mining Research Letters (3rd Edition),Joyce Bose,Research Journal,T0002
+B00268,Computational Intelligence Review (5th Edition),Connie Moore,Research Journal,T0001
+B00269,The Friendly Dragon (2nd Edition),Isaac Anderson,Children,T0001
+B00270,Intelligent Agents (9th Edition),Kevin Menon,Artificial Intelligence,T0001
+B00271,Big Data Research Review (10th Edition),Joshua Chan,Research Journal,T0001
+B00272,Digital Innovation Studies (5th Edition),Cecilia White,Research Journal,T0001
+B00273,Financial Management (3rd Edition),Paul Tan,Business,T0001
+B00274,Web Technologies Today (9th Edition),Adrian Harun,Computer Science,T0001
+B00275,Web Technologies Today (8th Edition),Kristine Joshi,Computer Science,T0001
+B00276,Chemistry in Action (5th Edition),Xin Yi Green,Science,T0001
+B00277,Modern Analytics Quarterly (1st Edition),Kai Nelson,Research Journal,T0001
+B00278,Streaming Data Systems (7th Edition),Mason Chan,Data Engineering,T0001
+B00279,Scientific Innovations (10th Edition),Yu Ting Wu,Science,T0001
+B00280,Tommy's Big Adventure (2nd Edition),Brianna Singh,Children,T0001
+B00281,Applied Predictive Analytics (9th Edition),Dennis Guo,Artificial Intelligence,T0001
+B00282,Big Data Research Review (9th Edition),Lauren Osman,Research Journal,T0002
+B00283,Parallel Computing Foundations (9th Edition),Gabriel Ali,Computer Science,T0001
+B00284,The Human Body (7th Edition),Christina Ma,Science,T0002
+B00285,History of Southeast Asia (10th Edition),Zhi Xin Rahman,History,T0001
+B00286,Oliver and the Moon (10th Edition),Terence Anderson,Children,T0001
+B00287,Practical Linux Administration (2nd Edition),Quentin Wright,Computer Science,T0001
+B00288,AI System Design (9th Edition),Raymond Lim,Artificial Intelligence,T0001
+B00289,The Magic Pencil (5th Edition),Brianna Hamid,Children,T0001
+B00290,A World Apart (6th Edition),Julia Jackson,Young Adult,T0001
+B00291,The Silk Road (6th Edition),Elizabeth Morris,History,T0002
+B00292,The Missing Piece (6th Edition),Samantha Young,Fiction,T0002
+B00293,Shattered Reflections (5th Edition),Nurul Jackson,Fiction,T0001
+B00294,Life Sciences Handbook (6th Edition),Faith Chua,Science,T0001
+B00295,Data Governance Essentials (9th Edition),Leon Latif,Data Engineering,T0001
+B00296,Modern Computer Architecture (6th Edition),Bernard Cai,Computer Science,T0001
+B00297,Business Analytics (5th Edition),Richard Osman,Business,T0001
+B00298,Journal of Intelligent Systems (9th Edition),Arthur Wright,Research Journal,T0002
+B00299,Consumer Behaviour (9th Edition),Cecilia Clark,Business,T0001
+B00300,The Forgotten Diary (3rd Edition),Philip Jackson,Young Adult,T0001
+B00301,Computer Vision Essentials (1st Edition),Charlotte Cook,Artificial Intelligence,T0002
+B00302,The Lost Heir (8th Edition),Carter Chew,Fiction,T0002
+B00303,A Day at the Zoo (5th Edition),Ralph Singh,Children,T0001
+B00304,Analytics Engineering Handbook (2nd Edition),Amy Ang,Data Engineering,T0001
+B00305,Journal of Artificial Intelligence (4th Edition),Pei Yi Gupta,Research Journal,T0003
+B00306,Introduction to Databases (3rd Edition),Dylan Deng,Computer Science,T0003
+B00307,Data Quality Management (1st Edition),Henry Iyer,Data Engineering,T0001
+B00308,Responsible AI (10th Edition),Pamela Zainal,Artificial Intelligence,T0001
+B00309,Designing Dimensional Models (2nd Edition),Sharon Sulaiman,Data Engineering,T0001
+B00310,The Secret Society (2nd Edition),Rebecca Deng,Young Adult,T0002
+B00311,Lily's First Journey (4th Edition),Jonathan Campbell,Children,T0001
+B00312,Distributed Systems Design (6th Edition),Crystal Mehta,Computer Science,T0001
+B00313,Advanced Computing Review (8th Edition),Lucas He,Research Journal,T0001
+B00314,Astronomy Explained (7th Edition),Henry Singh,Science,T0001
+B00315,AI Applications Journal (7th Edition),Thomas Hashim,Research Journal,T0001
+B00316,Computational Intelligence Review (6th Edition),Quentin Green,Research Journal,T0001
+B00317,Advanced Neural Architectures (6th Edition),Qi Hui Moore,Artificial Intelligence,T0003
+B00318,A Day at the Zoo (8th Edition),Isaac Mahmud,Children,T0001
+B00319,Cloud Data Solutions (7th Edition),Dominic Basri,Data Engineering,T0001
+B00320,Stars Above Us (6th Edition),Aisyah Brown,Young Adult,T0002
+B00321,AI Applications Journal (1st Edition),Joseph Williams,Research Journal,T0002
+B00322,Life Sciences Handbook (8th Edition),Oscar Lin,Science,T0001
+B00323,Enterprise Data Integration (2nd Edition),Ming Jie Lim,Data Engineering,T0001
+B00324,Project Management Handbook (1st Edition),Helen Evans,Business,T0002
+B00325,Emerging Technologies Quarterly (2nd Edition),Ann Campbell,Research Journal,T0001
+B00326,Intelligent Agents (7th Edition),Melissa Noor,Artificial Intelligence,T0001
+B00327,Data Mining Research Letters (7th Edition),Florence Nelson,Research Journal,T0001
+B00328,Building Data Pipelines (2nd Edition),Amir Quek,Data Engineering,T0002
+B00329,Leadership in Action (2nd Edition),Jerome Brown,Business,T0001
+B00330,A New Beginning (7th Edition),Matthew Mehta,Fiction,T0002
+B00331,Modern Biology (4th Edition),Nathan Malhotra,Science,T0001
+B00332,Energy and Matter (9th Edition),Amber Bose,Science,T0002
+B00333,Principles of Chemistry (10th Edition),Victoria Anderson,Science,T0001
+B00334,The Living World (3rd Edition),Jia Min Turner,Science,T0003
+B00335,Summer of Secrets (9th Edition),Gary Zhou,Young Adult,T0001
+B00336,The Magic Pencil (9th Edition),Kai Wen Deng,Children,T0003
+B00337,The Silent Witness (8th Edition),Rachel Ismail,Fiction,T0001
+B00338,The Human Body (3rd Edition),Brandon Moore,Science,T0001
+B00339,A Day at the Zoo (3rd Edition),Jun Hao Teo,Children,T0001
+B00340,Data Quality Management (2nd Edition),Jared Hamid,Data Engineering,T0001
+B00341,Crossing Paths (5th Edition),Andrea Turner,Young Adult,T0001
+B00342,Adventures in Candyland (6th Edition),Mark Ma,Children,T0001
+B00343,Advanced Programming Techniques (1st Edition),Emily Yeo,Computer Science,T0001
+B00344,Understanding Evolution (4th Edition),Nicole Jackson,Science,T0002
+B00345,Cloud Computing Concepts (1st Edition),Alicia Thompson,Computer Science,T0001
+B00346,Advanced Computing Review (5th Edition),Teresa Martin,Research Journal,T0001
+B00347,The Broken Clock (8th Edition),Alice Quek,Fiction,T0001
+B00348,AI Project Management (7th Edition),Chloe Osman,Artificial Intelligence,T0001
+B00349,Emerging Technologies Quarterly (7th Edition),Amy Patel,Research Journal,T0002
+B00350,The Silent River (7th Edition),Samantha Martinez,Young Adult,T0001
+B00351,Programming Paradigms (9th Edition),Elisa Davis,Computer Science,T0001
+B00352,Journal of Machine Learning Research (2nd Edition),Alex Bose,Research Journal,T0001
+B00353,Research Methods in Computing (5th Edition),Wayne Liu,Research Journal,T0001
+B00354,Scientific Innovations (4th Edition),Jacob Anderson,Science,T0001
+B00355,Data Engineering Transactions (5th Edition),Bella Agarwal,Research Journal,T0001
+B00356,Knowledge Discovery Journal (7th Edition),Connie Sun,Research Journal,T0001
+B00357,Analytics and Society (7th Edition),Elaine Low,Research Journal,T0002
+B00358,Summer of Secrets (8th Edition),Patrick Zainal,Young Adult,T0001
+B00359,The Rainbow Forest (10th Edition),Henry Collins,Children,T0001
+B00360,Operating Systems Principles (10th Edition),Wayne Clark,Computer Science,T0001
+B00361,The Silent Witness (1st Edition),Jocelyn Cai,Fiction,T0001
+B00362,Data Quality Management (8th Edition),Michelle Das,Data Engineering,T0001
+B00363,Winds of Change (4th Edition),Adam Iyer,Young Adult,T0002
+B00364,The Silent River (9th Edition),Fiona Patel,Young Adult,T0001
+B00365,AI and Society (6th Edition),Evan Nelson,Artificial Intelligence,T0001
+B00366,Shadows and Light (9th Edition),Bryan Iyer,Young Adult,T0001
+B00367,Streaming Data Systems (6th Edition),Wendy Yeo,Data Engineering,T0001
+B00368,Neural Networks Explained (4th Edition),Arthur Jackson,Artificial Intelligence,T0001
+B00369,Network Security Essentials (5th Edition),Arissa Salleh,Computer Science,T0001
+B00370,Beyond the Horizon (1st Edition),Elizabeth Low,Young Adult,T0003
+B00371,The Rainbow Forest (9th Edition),Renee Davis,Children,T0001
+B00372,Energy and Matter (2nd Edition),Brandon Harris,Science,T0001
+B00373,The Magic Backpack (1st Edition),Trevor Taylor,Children,T0001
+B00374,International Journal of AI Systems (2nd Edition),Rebecca Zainal,Research Journal,T0001
+B00375,Astronomy Explained (2nd Edition),Aqilah Basri,Science,T0002
+B00376,Secure Software Development (6th Edition),Katherine Singh,Computer Science,T0002
+B00377,The Talking Cat (4th Edition),Carter Mahmud,Children,T0001
+B00378,Digital Innovation Studies (3rd Edition),Helen Abdullah,Research Journal,T0001
+B00379,Software Engineering Essentials (2nd Edition),Isabella Clark,Computer Science,T0001
+B00380,The Silent Witness (3rd Edition),Gary Anderson,Fiction,T0001
+B00381,The Winter Guest (3rd Edition),Philip Quek,Fiction,T0001
+B00382,Genetics Fundamentals (10th Edition),Brian Basri,Science,T0001
+B00383,Project Management Handbook (6th Edition),Linda Tan,Business,T0003
+B00384,The Art of Programming (10th Edition),Gabrielle Campbell,Computer Science,T0003
+B00385,Scientific Discoveries (5th Edition),Christian Liu,Science,T0001
+B00386,Data Engineering Transactions (3rd Edition),Carl Teo,Research Journal,T0002
+B00387,Real-Time Analytics (10th Edition),Rachel Ong,Data Engineering,T0001
+B00388,Data Engineering Transactions (1st Edition),Vivian Ismail,Research Journal,T0001
+B00389,The Long Goodbye (10th Edition),Crystal Chandra,Fiction,T0001
+B00390,The Friendly Dragon (6th Edition),Simon Neo,Children,T0001
+B00391,Generative AI Applications (2nd Edition),Susan Razak,Artificial Intelligence,T0001
+B00392,A New Beginning (8th Edition),Mason Iyer,Fiction,T0001
+B00393,Corporate Finance Basics (5th Edition),Paul Patel,Business,T0001
+B00394,The Secret Treehouse (2nd Edition),Sharon Mehta,Children,T0001
+B00395,The Lost Kingdom (10th Edition),Kenneth King,Young Adult,T0001
+B00396,Historical Biographies (9th Edition),Stanley Toh,History,T0002
+B00397,Scientific Discoveries (10th Edition),Sylvia Nelson,Science,T0002
+B00398,Big Data Research Review (7th Edition),Kai Wen Yang,Research Journal,T0001
+B00399,Life Sciences Handbook (1st Edition),Lillian Ong,Science,T0001
+B00400,Marketing Essentials (7th Edition),Kai Xin Reddy,Business,T0002
+B00401,The Midnight Journey (2nd Edition),Xin Yi Thompson,Young Adult,T0002
+B00402,The Secret Treehouse (6th Edition),Bernice Zhao,Children,T0003
+B00403,International Journal of AI Systems (3rd Edition),Rose Turner,Research Journal,T0001
+B00404,Physics in Daily Life (3rd Edition),Kelly Zhang,Science,T0003
+B00405,Deep Learning Foundations (2nd Edition),Jessica Phillips,Artificial Intelligence,T0001
+B00406,Climate Science Today (10th Edition),Pei Yi Latif,Science,T0001
+B00407,A World Apart (1st Edition),Eileen Collins,Young Adult,T0001
+B00408,Fading Memories (8th Edition),Bryan Nair,Fiction,T0001
+B00409,The Sleepy Dinosaur (4th Edition),Jerome Patel,Children,T0001
+B00410,AI Applications Journal (4th Edition),Shawn Singh,Research Journal,T0001
+B00411,Data Structures in Practice (1st Edition),David Pillai,Computer Science,T0001
+B00412,Financial Management (8th Edition),Li Ting Davis,Business,T0001
+B00413,Fading Memories (2nd Edition),Nicholas Phillips,Fiction,T0001
+B00414,Computational Intelligence Review (2nd Edition),Leon Fang,Research Journal,T0001
+B00415,Journal of Machine Learning Research (5th Edition),Lillian Wilson,Research Journal,T0001
+B00416,Journal of Intelligent Systems (1st Edition),Audrey Liu,Research Journal,T0001
+B00417,Shattered Reflections (6th Edition),Laura Razak,Fiction,T0001
+B00418,A Day at the Zoo (9th Edition),Shu Ting Joshi,Children,T0001
+B00419,Climate Science Today (4th Edition),Victoria Pillai,Science,T0002
+B00420,The Secret Society (3rd Edition),Kyle Thomas,Young Adult,T0001
+B00421,Software Engineering Essentials (3rd Edition),Theodore Sim,Computer Science,T0001
+B00422,Scalable Data Platforms (6th Edition),Michael Lin,Data Engineering,T0001
+B00423,Emerging Technologies Quarterly (8th Edition),Pei Ling Chan,Research Journal,T0001
+B00424,Journal of Intelligent Systems (6th Edition),Keith Tan,Research Journal,T0001
+B00425,The Human Body (8th Edition),Ashley Thompson,Science,T0001
+B00426,Scientific Thinking (1st Edition),Joel Davis,Science,T0001
+B00427,SQL for Data Professionals (8th Edition),Felicia Toh,Data Engineering,T0001
+B00428,Introduction to Physics (2nd Edition),Nadia Hill,Science,T0001
+B00429,The Little Inventor (7th Edition),Oliver Hassan,Children,T0001
+B00430,The Human Body (6th Edition),Eva Deng,Science,T0003
+B00431,The Secret Garden Gate (7th Edition),Nora He,Fiction,T0001
+B00432,The Tiny Explorer (3rd Edition),Wei Jie Basri,Children,T0002
+B00433,Advanced Programming Techniques (6th Edition),Dennis Cook,Computer Science,T0001
+B00434,The Tiny Explorer (5th Edition),Leanne Wu,Children,T0001
+B00435,The Secret Treehouse (4th Edition),Nathan Adams,Children,T0002
+B00436,The Human Body (10th Edition),Candice Rahman,Science,T0001
+B00437,Principles of Management (3rd Edition),Alice Xie,Business,T0001
+B00438,The Lost Kingdom (7th Edition),Mason Hassan,Young Adult,T0001
+B00439,The Brave Little Mouse (8th Edition),Derek Basri,Children,T0001
+B00440,Climate Science Today (8th Edition),Jackson Pillai,Science,T0001
+B00441,Principles of Chemistry (3rd Edition),Claire Agarwal,Science,T0002
+B00442,Knowledge Discovery Journal (6th Edition),Linda Johnson,Research Journal,T0001
+B00443,Database Performance Tuning (2nd Edition),Eileen Liu,Data Engineering,T0001
+B00444,Distributed Systems Design (9th Edition),Connie Mitchell,Computer Science,T0001
+B00445,Beyond the Storm (6th Edition),Gilbert Salleh,Fiction,T0002
+B00446,The Final Challenge (8th Edition),Laura Sharma,Young Adult,T0001
+B00447,Future Computing Research (9th Edition),Li Ting Thomas,Research Journal,T0001
+B00448,Adventures in Candyland (2nd Edition),Ivan Green,Children,T0001
+B00449,Journal of Intelligent Systems (10th Edition),Gladys Garcia,Research Journal,T0001
+B00450,Modern Analytics Quarterly (3rd Edition),Simon Deng,Research Journal,T0001
+B00451,Journal of Artificial Intelligence (2nd Edition),Andre Clark,Research Journal,T0001
+B00452,Advanced Neural Architectures (1st Edition),Stephanie Poh,Artificial Intelligence,T0001
+B00453,Journal of Artificial Intelligence (10th Edition),Philip Mahmud,Research Journal,T0001
+B00454,Operating Systems Principles (3rd Edition),Angelina Razak,Computer Science,T0001
+B00455,Future Computing Research (4th Edition),Belinda Sulaiman,Research Journal,T0001
+B00456,The Forgotten Diary (4th Edition),Norman He,Young Adult,T0002
+B00457,The Friendly Dragon (4th Edition),Belinda Hill,Children,T0001
+B00458,AI Project Management (2nd Edition),Matthew Adams,Artificial Intelligence,T0001
+B00459,Generative AI Applications (7th Edition),Ian Garcia,Artificial Intelligence,T0001
+B00460,Advanced Computing Review (2nd Edition),Jessica He,Research Journal,T0001
+B00461,The Mystery Balloon (7th Edition),Nicholas Turner,Children,T0001
+B00462,Fading Memories (3rd Edition),Alex Davis,Fiction,T0001
+B00463,Modern Analytics Quarterly (7th Edition),Katherine Moore,Research Journal,T0001
+B00464,Big Data Research Review (4th Edition),Kathleen Poh,Research Journal,T0002
+B00465,Advanced Neural Architectures (10th Edition),Amy Thompson,Artificial Intelligence,T0001
+B00466,The Curious Rabbit (10th Edition),Kelly Hassan,Children,T0001
+B00467,Journal of Artificial Intelligence (5th Edition),Xenia Rahman,Research Journal,T0001
+B00468,World War Chronicles (2nd Edition),Arissa Davis,History,T0001
+B00469,Big Data Research Review (3rd Edition),Candice Hashim,Research Journal,T0001
+B00470,The Forgotten Diary (8th Edition),Sharon Chen,Young Adult,T0001
+B00471,Startup Success Stories (9th Edition),Andre Garcia,Business,T0001
+B00472,Intelligent Agents (8th Edition),Chloe Turner,Artificial Intelligence,T0002
+B00473,Startup Success Stories (5th Edition),Leon Hassan,Business,T0001
+B00474,Streaming Data Systems (10th Edition),Yvonne Williams,Data Engineering,T0001
+B00475,Chemistry in Action (3rd Edition),Carmen Low,Science,T0001
+B00476,Managing Change (6th Edition),Anna Singh,Business,T0003
+B00477,Modern Biology (6th Edition),Ming Jie Ng,Science,T0001
+B00478,The Golden Feather (7th Edition),Eva Low,Children,T0001
+B00479,Parallel Computing Foundations (2nd Edition),Dennis Mitchell,Computer Science,T0001
+B00480,Real-Time Analytics (1st Edition),Rose Williams,Data Engineering,T0001
+B00481,Climate Science Today (1st Edition),Stephanie Mahmud,Science,T0002
+B00482,Streaming Data Systems (8th Edition),Gordon Moore,Data Engineering,T0001
+B00483,Real-Time Analytics (3rd Edition),Brianna Nair,Data Engineering,T0001
+B00484,Operating Systems Principles (9th Edition),Reuben He,Computer Science,T0001
+B00485,SQL for Data Professionals (10th Edition),George Thomas,Data Engineering,T0001
+B00486,Computational Intelligence Review (10th Edition),Kai Xin Ahmad,Research Journal,T0001
+B00487,Cloud Data Solutions (9th Edition),Brianna Verma,Data Engineering,T0001
+B00488,Database Performance Tuning (8th Edition),Shu Ting Zhang,Data Engineering,T0001
+B00489,The Curious Rabbit (4th Edition),Sophia Cai,Children,T0001
+B00490,Ocean Science (10th Edition),Daniel Yusof,Science,T0001
+B00491,Project Management Handbook (7th Edition),Laura Kumar,Business,T0001
+B00492,Journey to Nowhere (5th Edition),Anne Brown,Fiction,T0001
+B00493,Lily's First Journey (2nd Edition),Joshua Liu,Children,T0001
+B00494,Road to Discovery (9th Edition),Michelle Malhotra,Young Adult,T0001
+B00495,Knowledge Discovery Journal (5th Edition),Siti Wu,Research Journal,T0001
+B00496,Journal of Machine Learning Research (1st Edition),Felix Kumar,Research Journal,T0001
+B00497,Journey to Nowhere (6th Edition),Gavin Reddy,Fiction,T0002
+B00498,The Little Inventor (2nd Edition),Gladys Miller,Children,T0001
+B00499,Voices from the Past (8th Edition),Gavin Zhao,History,T0003
+B00500,The Midnight Journey (7th Edition),Ryan Quek,Young Adult,T0001
