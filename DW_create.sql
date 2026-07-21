@@ -15,14 +15,6 @@ CREATE TABLE DimDate (
     Year INT NOT NULL
 );
 
-CREATE TABLE DimMembershipTier (
-    TierKey INT AUTO_INCREMENT PRIMARY KEY,
-    TierID CHAR(10) NOT NULL,
-    TierName VARCHAR(20) NOT NULL,
-    TierLevel INT NOT NULL,
-    BorrowLimit INT NOT NULL
-);
-
 CREATE TABLE DimMember (
     MemberKey INT AUTO_INCREMENT PRIMARY KEY,
     MemberID CHAR(10) NOT NULL,
@@ -33,8 +25,9 @@ CREATE TABLE DimMember (
     Gender CHAR(10) NOT NULL,
     Occupation VARCHAR(50) NULL,
     RegistrationDatetime DATETIME NOT NULL,
-    TierKey INT NOT NULL,
-    FOREIGN KEY (TierKey) REFERENCES DimMembershipTier(TierKey)
+    TierName VARCHAR(20) NOT NULL,
+    TierLevel INT NOT NULL,
+    BorrowLimit INT NOT NULL
 );
 
 CREATE TABLE DimStaff (
@@ -52,12 +45,19 @@ CREATE TABLE DimStaff (
 CREATE TABLE DimBook (
     BookKey INT AUTO_INCREMENT PRIMARY KEY,
     BookID CHAR(10) NOT NULL,
-    CopySeqNo INT NOT NULL,
     Title VARCHAR(200) NOT NULL,
     Author VARCHAR(100) NOT NULL,
     Genre VARCHAR(50) NOT NULL,
-    MinTierID CHAR(10) NOT NULL,
-    CopyStatus VARCHAR(20) NOT NULL
+    MinTierID CHAR(10) NOT NULL
+);
+
+CREATE TABLE DimBookCopy (
+    BookCopyKey INT AUTO_INCREMENT PRIMARY KEY,
+    BookKey INT NOT NULL,
+    BookID CHAR(10) NOT NULL,
+    CopySeqNo INT NOT NULL,
+    Status VARCHAR(20) NOT NULL,
+    FOREIGN KEY (BookKey) REFERENCES DimBook(BookKey)
 );
 
 CREATE TABLE FactLoan (
