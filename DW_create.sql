@@ -52,37 +52,24 @@ CREATE TABLE DimBook (
     MinTierID CHAR(10) NOT NULL
 );
 
-CREATE TABLE DimBookCopy (
-    BookCopyKey INT AUTO_INCREMENT PRIMARY KEY,
-    BookKey INT NOT NULL,
-    BookID CHAR(10) NOT NULL,
-    CopySeqNo INT NOT NULL,
-    Status VARCHAR(20) NOT NULL,
-    FOREIGN KEY (BookKey) REFERENCES DimBook(BookKey)
-);
-
 CREATE TABLE FactLoan (
     LoanKey INT AUTO_INCREMENT PRIMARY KEY,
     MemberKey INT NOT NULL,
     StaffKey INT NOT NULL,
     BookKey INT NOT NULL,
-    StartDateKey INT NOT NULL,
-    DueDateKey INT NOT NULL,
-    ReturnDateKey INT NULL,
-    
-    LoanDatetime DATETIME NOT NULL,
-    ReturnDatetime DATETIME NULL,
-    
+    CopySeqNo INT NOT NULL,
+    StartDate INT NOT NULL,
+    DueDate INT NOT NULL,
+    ReturnDate INT NULL,
 
-    LoanDurationDays INT NULL,
+    LoanDurationDay INT NULL,
     IsReturnedLate INT NOT NULL,
     LoanCount INT DEFAULT 1,
-    
 
     FOREIGN KEY (MemberKey) REFERENCES DimMember(MemberKey),
     FOREIGN KEY (StaffKey) REFERENCES DimStaff(StaffKey),
     FOREIGN KEY (BookKey) REFERENCES DimBook(BookKey),
-    FOREIGN KEY (StartDateKey) REFERENCES DimDate(DateKey),
-    FOREIGN KEY (DueDateKey) REFERENCES DimDate(DateKey),
-    FOREIGN KEY (ReturnDateKey) REFERENCES DimDate(DateKey)
+    FOREIGN KEY (StartDate) REFERENCES DimDate(DateKey),
+    FOREIGN KEY (DueDate) REFERENCES DimDate(DateKey),
+    FOREIGN KEY (ReturnDate) REFERENCES DimDate(DateKey)
 );
