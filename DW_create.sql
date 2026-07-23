@@ -18,16 +18,17 @@ CREATE TABLE DimDate (
 CREATE TABLE DimMember (
     MemberKey INT AUTO_INCREMENT PRIMARY KEY,
     MemberID CHAR(10) NOT NULL,
-    FullName VARCHAR(100) NOT NULL,
-    ContactNo BIGINT NOT NULL,
-    Email VARCHAR(100) NOT NULL,
+    Name VARCHAR(100) NOT NULL,
+    Contact BIGINT NOT NULL,
     DateOfBirth DATE NOT NULL,
     Gender CHAR(10) NOT NULL,
     Occupation VARCHAR(50) NULL,
     RegistrationDatetime DATETIME NOT NULL,
     TierName VARCHAR(20) NOT NULL,
     TierLevel INT NOT NULL,
-    BorrowLimit INT NOT NULL
+    BorrowLimit INT NOT NULL,
+    DOB DATETIME NOT NULL,
+    TierID CHAR(10) NOT NULL
 );
 
 CREATE TABLE DimStaff (
@@ -37,7 +38,7 @@ CREATE TABLE DimStaff (
     Gender CHAR(10) NOT NULL,
     Contact VARCHAR(100) NOT NULL,
     EmploymentType VARCHAR(20) NOT NULL,
-    StartDatetime DATETIME NOT NULL,
+    StartDate DATETIME NOT NULL,
     Department VARCHAR(50) NOT NULL,
     DOB DATE NOT NULL
 );
